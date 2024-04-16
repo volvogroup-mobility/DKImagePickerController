@@ -9,8 +9,8 @@
 import UIKit
 import Foundation
 
-#if canImport(TOCropViewController)
-import TOCropViewController
+#if canImport(CropViewController)
+import CropViewController
 #endif
 
 open class DKImageExtensionPhotoCropper: DKImageBaseExtension {
