@@ -3,20 +3,20 @@
     "pins": [
       {
         "package": "DKCamera",
-        "repositoryURL": "https://github.com/zhangao0086/DKCamera",
+        "repositoryURL": "https://github.com/volvogroup-mobility/DKCamera",
         "state": {
-          "branch": "master",
-          "revision": "5c691d11014b910aff69f960475d70e65d9dcc96",
-          "version": null
+          "branch": null,
+          "revision": "4674cecf2600461007ad801ddc799f85e25a430e",
+          "version": "1.6.8-abvolvo.1"
         }
       },
       {
         "package": "DKPhotoGallery",
         "repositoryURL": "https://github.com/zhangao0086/DKPhotoGallery",
         "state": {
-          "branch": "master",
-          "revision": "311c1bc7a94f1538f82773a79c84374b12a2ef3d",
-          "version": null
+          "branch": null,
+          "revision": "ae75b13245761969d2714e69f2831b870534138c",
+          "version": "0.0.19"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
         "state": {
           "branch": null,
-          "revision": "3e48cb68d8e668d146dc59c73fb98cb628616236",
-          "version": "5.13.2"
+          "revision": "10d06f6a33bafae8c164fbfd1f03391f6d4692b3",
+          "version": "5.20.0"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/kirualex/SwiftyGif.git",
         "state": {
           "branch": null,
-          "revision": "db0c122b671bc9760385e0355be00eede3b7bb44",
-          "version": "5.4.3"
+          "revision": "4430cbc148baa3907651d40562d96325426f409a",
+          "version": "5.4.5"
         }
       },
       {
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/TimOliver/TOCropViewController",
         "state": {
           "branch": null,
-          "revision": "dad97167bf1be16aeecd109130900995dd01c515",
-          "version": "2.6.0"
+          "revision": "a634cb7cdfd580006e79a6e74e64417fe9e9783b",
+          "version": "2.7.4"
         }
       }
     ]

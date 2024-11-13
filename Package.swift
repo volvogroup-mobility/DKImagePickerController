@@ -15,8 +15,8 @@ let package = Package(
             targets: ["DKImagePickerController"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/zhangao0086/DKCamera", .branch("master")),
-        .package(url: "https://github.com/zhangao0086/DKPhotoGallery", .branch("master")),
+        .package(url: "https://github.com/volvogroup-mobility/DKCamera", from: "1.6.8-abvolvo"),
+        .package(url: "https://github.com/zhangao0086/DKPhotoGallery", from: "0.0.19"),
         .package(url: "https://github.com/TimOliver/TOCropViewController", from: "2.6.0"),
     ],
     targets: [
